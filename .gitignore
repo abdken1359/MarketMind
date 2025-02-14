@@ -1,0 +1,62 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node modules
+/node_modules/
+
+# Build output
+/dist/
+/dist-ssr/
+
+# Vite-specific
+.vite/
+
+# Vue-specific files (optional)
+/*.local
+
+# Specific files you may want to ignore
+marketmindsdlc.md
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files (e.g., VS Code, WebStorm, Sublime)
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment files (be careful, may contain sensitive data)
+.env
+.env.local
+.env.*.local
+
+# Coverage reports (if you run tests and generate coverage reports)
+/coverage/
+
+# Temporary files created by editors
+*.swp
+*.swo
+*.bak
+
+# Vite Plugin Cache (if any plugins generate cache files)
+/.vite-plugin-cache/
+
+# Pinia store persistence (if used)
+/pinia-store.json
+
+# Vuetify cache (optional, if Vuetify generates cache)
+/.vuetify.cache/

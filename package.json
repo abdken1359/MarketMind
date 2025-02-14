@@ -1,0 +1,35 @@
+{
+  "name": "marketmind",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Abdiel abdielkegne6@gmail.com",
+  "description": "A market bucket list app to help you track the best markets and items to buy.",
+  "keywords": [
+    "vue3",
+    "vite",
+    "vuetify",
+    "pinia",
+    "market",
+    "bucket-list"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdken1359/MarketMind.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^3.0.1",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0",
+    "vuetify": "^3.7.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.1.0"
+  }
+}
