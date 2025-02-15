@@ -22,6 +22,7 @@ lerna-debug.log*
 
 # Specific files you may want to ignore
 marketmindsdlc.md
+/src/plugins/supabase.js
 
 # Editor directories and files
 .vscode/*

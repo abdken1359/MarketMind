@@ -2,8 +2,8 @@ html{
 	scroll-behavior: smooth;
 }
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Poppins','Roboto';
+	font-family: 'Poppins','Roboto'!important;
 }
 body,p{
-	font-family: 'Poppins','Roboto';
+	font-family: 'Poppins','Roboto'!important;
 }
